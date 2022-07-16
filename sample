@@ -7,14 +7,14 @@ pipeline {
                 echo 'Hello World'
             }
         }
-        stage('dh') {
+        stage('Build') {
             steps {
-                echo 'dh'
+                echo 'build'
             }
         }
-        stage('dhdf') {
+        stage('Test') {
             steps {
-                echo 'dhdf'
+                echo 'test'
             }
         }
     }
