@@ -1,1 +1,1 @@
-Jenkins practice session
+Jenkins practice sessions and notes
